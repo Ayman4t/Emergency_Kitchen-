@@ -1,0 +1,3487 @@
+{
+  "schema_version": "1.0",
+  "language": "ar",
+  "description": "قاعدة بيانات بدائل مكونات الطبخ والخبز",
+  "items": [
+    {
+      "id": "egg-whole",
+      "name_ar": "البيض الكامل",
+      "cat": "eggs",
+      "tags": "بيض,كيك,بسكويت,ربط",
+      "substitutes": [
+        {
+          "sub_name": "أكوافابا (ماء الحمص المعلب)",
+          "ratio": "¼ كوب / 57 جم لكل بيضة",
+          "best_for": "معظم المخبوزات البسيطة والبراونيز وبعض الكيك",
+          "impact": "ترطيب وربط؛ من أفضل البدائل العامة ويمكن خفقه في بعض الاستخدامات",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": "لا يُنصح به كوحدة مساوية في Angel Food والشيفون والوصفات التي تعتمد على بنية البيض المخفوق."
+        },
+        {
+          "sub_name": "بذور الكتان المطحونة + ماء",
+          "ratio": "1 م كتان + 3 م ماء لكل بيضة",
+          "best_for": "كوكيز، براونيز، مافن، مخبوزات منخفضة الارتفاع",
+          "impact": "ربط وزيادة لزوجة مع قلة في التهوية",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": "اتركه 5–10 دقائق حتى يتجلّن."
+        },
+        {
+          "sub_name": "صوص تفاح غير محلى",
+          "ratio": "¼ كوب لكل بيضة",
+          "best_for": "كيك خفيف، مافن، خبز سريع",
+          "impact": "رطوبة وليونة؛ قد يزيد الكثافة",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": "قد يغيّر الطعم قليلًا."
+        },
+        {
+          "sub_name": "موز مهروس",
+          "ratio": "¼ كوب / 57 جم لكل بيضة",
+          "best_for": "بان كيك، خبز الموز، مافن",
+          "impact": "رطوبة وربط، مع نكهة موز واضحة",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "توفو حريري مهروس",
+          "ratio": "¼ كوب / 57 جم لكل بيضة",
+          "best_for": "كيك رطب، مافن، خبز سريع",
+          "impact": "رطوبة وبنية طرية؛ قد يجعل المخبوز أكثر كثافة",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي يوناني سادة",
+          "ratio": "¼ كوب / 57 جم لكل بيضة",
+          "best_for": "مافن، بان كيك، خبز سريع وكيك سناك",
+          "impact": "رطوبة ونعومة؛ قد يثقل الخليط عند الإفراط",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "egg-binding",
+      "name_ar": "البيض للربط",
+      "cat": "eggs",
+      "tags": "بيض,ربط,كرات,برجر",
+      "substitutes": [
+        {
+          "sub_name": "كتان/شيا + ماء",
+          "ratio": "1 م كتان أو شيا + 3 م ماء لكل بيضة",
+          "best_for": "كوكيز، كرات خضار، برجر نباتي",
+          "impact": "ربط جيد دون تهوية كبيرة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": "اترك الخليط 5 دقائق."
+        },
+        {
+          "sub_name": "جيلاتين",
+          "ratio": "1 عبوة جيلاتين + 2 م ماء دافئ لكل بيضة",
+          "best_for": "أطعمة تحتاج ربطًا قويًا",
+          "impact": "ربط قوي، لكنه ليس نباتيًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "بطاطس مهروسة",
+          "ratio": "حوالي ¼ كوب لكل بيضة",
+          "best_for": "كرات البطاطس والحشوات والبرجر النباتي",
+          "impact": "ربط وزيادة رطوبة، مع نكهة محايدة نسبيًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "egg-moisture",
+      "name_ar": "البيض للرطوبة",
+      "cat": "eggs",
+      "tags": "بيض,رطوبة,كيك,مافن",
+      "substitutes": [
+        {
+          "sub_name": "صوص تفاح غير محلى",
+          "ratio": "¼ كوب لكل بيضة",
+          "best_for": "مافن وكيك وخبز سريع",
+          "impact": "رطوبة، وقد يجعل الكوكيز أكثر سماكة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "قرع مهروس",
+          "ratio": "¼ كوب لكل بيضة",
+          "best_for": "مافن، كيك، خبز سريع",
+          "impact": "رطوبة مع لون/نكهة خفيفة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "أفوكادو مهروس",
+          "ratio": "¼ كوب لكل بيضة",
+          "best_for": "براونيز وكيك كثيف",
+          "impact": "رطوبة ودهون، مع تغير بسيط في اللون",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "بطاطا حلوة مهروسة",
+          "ratio": "¼ كوب لكل بيضة",
+          "best_for": "خبز سريع ومافن",
+          "impact": "رطوبة وقوام أكثر كثافة",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "egg-whites",
+      "name_ar": "بياض البيض",
+      "cat": "eggs",
+      "tags": "بيض,بياض,مرينج",
+      "substitutes": [
+        {
+          "sub_name": "أكوافابا",
+          "ratio": "2 م ك / 28 جم لكل بياض بيضة",
+          "best_for": "مرينج، صلصات مخفوقة وبعض المخبوزات",
+          "impact": "يمكن خفقها لتكوين رغوة شبيهة ببياض البيض",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": "المرينج يعتمد على الخفق والهيكل، لذا لا تعمم النسبة على كل وصفة."
+        },
+        {
+          "sub_name": "بديل بيض تجاري",
+          "ratio": "حسب تعليمات العبوة",
+          "best_for": "خبز وكيك",
+          "impact": "يتغير حسب التركيبة",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": "اتبع تعليمات المنتج."
+        },
+        {
+          "sub_name": "ماء صودا فوّار",
+          "ratio": "¼ كوب لكل بيضة في بعض المخبوزات",
+          "best_for": "كيك ومافن خفيف",
+          "impact": "يساعد على خفة الخليط، لكنه لا يعطي بنية البيض كاملة",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "buttermilk",
+      "name_ar": "لبن رايب / Buttermilk",
+      "cat": "dairy",
+      "tags": "ألبان,لبن رايب,بان كيك,كيك",
+      "substitutes": [
+        {
+          "sub_name": "حليب + ليمون أو خل أبيض",
+          "ratio": "1 م ك حمض + حليب حتى 1 كوب",
+          "best_for": "بان كيك، بيسكويت، كيك",
+          "impact": "يضيف الحموضة التي يحتاجها بعض التفاعل مع البيكنج صودا",
+          "score": "excellent",
+          "source": "KAB_BM",
+          "note": "اتركه 10–15 دقيقة حسب إرشاد King Arthur."
+        },
+        {
+          "sub_name": "زبادي سادة مخفف",
+          "ratio": "1 كوب إجمالًا بقوام قريب من اللبن الرايب",
+          "best_for": "بان كيك، كيك وصوصات",
+          "impact": "يحافظ على الحموضة والقوام لكن قد يكون أثخن",
+          "score": "excellent",
+          "source": "KAB_BM",
+          "note": ""
+        },
+        {
+          "sub_name": "كريمة حامضة مخففة",
+          "ratio": "خففها بالحليب/الماء حتى قوام اللبن الرايب",
+          "best_for": "مخبوزات وصوصات",
+          "impact": "قوام أغنى مع حموضة جيدة",
+          "score": "good",
+          "source": "KAB_BM",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "milk",
+      "name_ar": "الحليب",
+      "cat": "dairy",
+      "tags": "ألبان,حليب,طبخ,خبز",
+      "substitutes": [
+        {
+          "sub_name": "حليب نباتي غير محلى",
+          "ratio": "1 : 1",
+          "best_for": "أغلب الطبخ والخبز",
+          "impact": "أقرب تطابق إذا كان غير محلى وغير منكّه",
+          "score": "excellent",
+          "source": "ILL",
+          "note": "اختر نوعًا متعادل النكهة للوصفات الحساسة."
+        },
+        {
+          "sub_name": "حليب مبخر + ماء",
+          "ratio": "½ كوب ماء + ½ كوب حليب مبخر لكل كوب",
+          "best_for": "شوربات، صوصات، خبز",
+          "impact": "أغنى من الحليب العادي قليلًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "ماء + زبدة",
+          "ratio": "للاستخدام العملي حسب الوصفة",
+          "best_for": "وصفات قليلة الحساسية لطعم الحليب",
+          "impact": "يعوض جزءًا من السائل والدهون، لكن لا يعوض بروتين الحليب",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "evaporated-milk",
+      "name_ar": "الحليب المبخر",
+      "cat": "dairy",
+      "tags": "ألبان,حليب مبخر,كريمة",
+      "substitutes": [
+        {
+          "sub_name": "حليب كامل + تقليل على النار",
+          "ratio": "تقريبًا 1 : 1 بعد خفض الحجم",
+          "best_for": "شوربات، صوصات، حلويات",
+          "impact": "قوام مركز وتبخر ماء جزء من السائل",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كريمة خفيفة + ماء",
+          "ratio": "اضبط القوام حسب الوصفة",
+          "best_for": "حلويات وصوصات",
+          "impact": "أعلى في الدسم غالبًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "heavy-cream",
+      "name_ar": "الكريمة الثقيلة",
+      "cat": "dairy",
+      "tags": "كريمة,Heavy Cream,خفق,صوص",
+      "substitutes": [
+        {
+          "sub_name": "حليب + زبدة",
+          "ratio": "1 كوب حليب + 8 م ك / 113 جم زبدة لكل كوب",
+          "best_for": "طبخ وخبز فقط",
+          "impact": "يعطي دسمًا قريبًا، لكنه لا يُخفق ككريمة ثقيلة",
+          "score": "excellent",
+          "source": "KAB_CREAM",
+          "note": "للاستخدام بالقوام السائل، والقياس بالوزن أكثر أمانًا."
+        },
+        {
+          "sub_name": "¾ كوب حليب + ⅓ كوب زبدة",
+          "ratio": "لكل 1 كوب كريمة",
+          "best_for": "طبخ وخبز",
+          "impact": "بديل منشور من مراجع الإرشاد؛ لا يُخفق",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "حليب مبخر",
+          "ratio": "1 : 1 في بعض الشوربات والصوصات",
+          "best_for": "شوربة وصلصات ساخنة",
+          "impact": "أقل دسمًا من الكريمة الثقيلة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "half-half",
+      "name_ar": "خليط الحليب والكريمة الخفيفة",
+      "cat": "dairy",
+      "tags": "ألبان,كريمة خفيفة,قهوة,نصف حليب ونصف كريمة,Half-and-Half",
+      "substitutes": [
+        {
+          "sub_name": "حليب مبخر غير مخفف",
+          "ratio": "1 : 1",
+          "best_for": "القهوة والصوصات والخبز",
+          "impact": "قوام قريب مع اختلاف في الدسم",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "⅞ كوب حليب + 3 م ك زبدة",
+          "ratio": "لكل 1 كوب",
+          "best_for": "الطبخ والخبز",
+          "impact": "يزيد الدسم ويقارب القوام",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "sour-cream",
+      "name_ar": "القشدة الحامضة / Sour Cream",
+      "cat": "dairy",
+      "tags": "ألبان,حامض,كيك,صوص",
+      "substitutes": [
+        {
+          "sub_name": "زبادي سادة",
+          "ratio": "1 : 1",
+          "best_for": "كيك، صوصات، تغميسات",
+          "impact": "حموضة وقوام قريبان",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "لبن رايب + زبدة",
+          "ratio": "⅞ كوب لبن رايب + ⅓ كوب زبدة لكل كوب",
+          "best_for": "وصفات طبخ وخبز",
+          "impact": "يضيف الحموضة والدسم",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي يوناني",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وكيك",
+          "impact": "أثخن وأعلى بروتينًا عادةً",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "yogurt",
+      "name_ar": "الزبادي السادة",
+      "cat": "dairy",
+      "tags": "ألبان,زبادي,كيك,صوص",
+      "substitutes": [
+        {
+          "sub_name": "قشدة حامضة",
+          "ratio": "1 : 1",
+          "best_for": "كيك وصوصات",
+          "impact": "أغنى في الدسم عادةً",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي يوناني + قليل ماء",
+          "ratio": "1 : 1 بالقوام المطلوب",
+          "best_for": "كل ما يحتاج زبادي سائلًا",
+          "impact": "يثخن إذا لم يُخفف",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "حليب + حمض",
+          "ratio": "قرب قوام الزبادي",
+          "best_for": "مخبوزات حمضية عند الضرورة",
+          "impact": "أخف قوامًا وأقل بروتينًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "greek-yogurt",
+      "name_ar": "الزبادي اليوناني",
+      "cat": "dairy",
+      "tags": "زبادي يوناني,بروتين,مافن",
+      "substitutes": [
+        {
+          "sub_name": "زبادي سادة",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وخبز وكيك",
+          "impact": "أخف قوامًا",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "قشدة حامضة",
+          "ratio": "1 : 1",
+          "best_for": "تغميسات وكيك",
+          "impact": "أغنى وأكثر دسمًا غالبًا",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "توفو حريري مهروس",
+          "ratio": "1 : 1",
+          "best_for": "خيارات نباتية في صوصات وخلطات",
+          "impact": "محايد نسبيًا مع تغير في القوام",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cream-cheese",
+      "name_ar": "الجبن الكريمي",
+      "cat": "dairy",
+      "tags": "جبن,تشيزكيك,تغميس",
+      "substitutes": [
+        {
+          "sub_name": "لبنة",
+          "ratio": "1 : 1",
+          "best_for": "تغميس، حشو، ساندويتش",
+          "impact": "أكثر حموضة وأثقل قليلًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "ريكوتا + قليل زبدة",
+          "ratio": "حوالي 1 : 1 بعد الخلط",
+          "best_for": "حشوات وحلويات",
+          "impact": "أكثر تحببًا وأقل نعومة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "جبن قريش مهروس + زبادي",
+          "ratio": "حسب القوام",
+          "best_for": "حشوات وتغميسات",
+          "impact": "بروتين أعلى وقوام أقل نعومة",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mozzarella",
+      "name_ar": "الموزاريلا",
+      "cat": "dairy",
+      "tags": "جبن,موزاريلا,بيتزا",
+      "substitutes": [
+        {
+          "sub_name": "بروفولون",
+          "ratio": "1 : 1",
+          "best_for": "بيتزا، ساندويتشات، أطباق ساخنة",
+          "impact": "ذوبان جيد ونكهة أقوى قليلًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "جبن غودا",
+          "ratio": "1 : 1",
+          "best_for": "بيتزا ومخبوزات مالحة",
+          "impact": "ذوبان جيد مع نكهة أوضح",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خليط شيدر خفيف",
+          "ratio": "1 : 1",
+          "best_for": "بيتزا ومكرونة مخبوزة",
+          "impact": "ذوبان جيد لكن النكهة أقوى",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "parmesan",
+      "name_ar": "البارميزان",
+      "cat": "dairy",
+      "tags": "جبن,بارميزان,مكرونة",
+      "substitutes": [
+        {
+          "sub_name": "بيكورينو رومانو",
+          "ratio": "1 : 1 ثم اضبط الملح",
+          "best_for": "مكرونة وسلطات",
+          "impact": "أملح وأقوى نكهة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خميرة غذائية",
+          "ratio": "1 : 1 حسب الذوق",
+          "best_for": "وصفات نباتية، صوصات، فشار",
+          "impact": "نكهة جبنية دون ألبان",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "فتات خبز محمص + رشة ملح",
+          "ratio": "للتغطية فقط",
+          "best_for": "تغطية المكرونة والجراتان",
+          "impact": "يعطي قرمشة بدل النكهة الجبنية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ricotta",
+      "name_ar": "الريكوتا",
+      "cat": "dairy",
+      "tags": "جبن,ريكوتا,حشو",
+      "substitutes": [
+        {
+          "sub_name": "جبن قريش مهروس",
+          "ratio": "1 : 1",
+          "best_for": "حشوات ولازانيا",
+          "impact": "أكثر حبيبية؛ صفِّه إن كان مائيًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "ماسكاربوني",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وحشوات",
+          "impact": "أعلى دسمًا وأنعم",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "توفو حريري مهروس",
+          "ratio": "1 : 1",
+          "best_for": "حشوات نباتية",
+          "impact": "محايد نسبيًا مع قوام كريمي",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cottage-cheese",
+      "name_ar": "الجبن القريش / Cottage Cheese",
+      "cat": "dairy",
+      "tags": "جبن قريش,بروتين,حشو",
+      "substitutes": [
+        {
+          "sub_name": "ريكوتا",
+          "ratio": "1 : 1",
+          "best_for": "لازانيا وحشوات",
+          "impact": "أنعم وأقل حبيبية",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي يوناني",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وحشوات",
+          "impact": "أكثر حموضة",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "توفو حريري",
+          "ratio": "1 : 1",
+          "best_for": "وصفات نباتية",
+          "impact": "قوام كريمي محايد",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mascarpone",
+      "name_ar": "ماسكاربوني",
+      "cat": "dairy",
+      "tags": "جبن,ماسكاربوني,تيراميسو",
+      "substitutes": [
+        {
+          "sub_name": "جبن كريمي + كريمة",
+          "ratio": "1 : 1 بالقوام المطلوب",
+          "best_for": "تيراميسو وحلويات",
+          "impact": "أكثر حموضة من الماسكاربوني",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "ريكوتا مهروسة + كريمة",
+          "ratio": "1 : 1",
+          "best_for": "حشوات وحلويات",
+          "impact": "أكثر حبيبية وأخف",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "qishta",
+      "name_ar": "القشطة",
+      "cat": "dairy",
+      "tags": "قشطة,حلويات,كريمة",
+      "substitutes": [
+        {
+          "sub_name": "كريمة ثقيلة",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وحشوات",
+          "impact": "أعلى دسمًا وغنية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كريمة حامضة مخففة",
+          "ratio": "1 : 1 بالقوام",
+          "best_for": "حلويات أو صوصات حامضة",
+          "impact": "حموضة أعلى",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "condensed-milk",
+      "name_ar": "الحليب المكثف المحلى",
+      "cat": "dairy",
+      "tags": "حليب مكثف,حلويات,سكر",
+      "substitutes": [
+        {
+          "sub_name": "حليب بودرة + ماء + سكر + زبدة",
+          "ratio": "لعلبة 1⅓ كوب: 1 كوب + 2 م بودرة + ½ كوب ماء + ¾ كوب سكر + 3 م زبدة",
+          "best_for": "حلويات وفلان وصوصات",
+          "impact": "نسبة منشورة؛ يحتاج تسخينًا وخلطًا جيدًا",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "حليب مبخر + سكر + زبدة",
+          "ratio": "⅓ كوب + 2 م حليب مبخر + 1 كوب سكر + 3 م زبدة",
+          "best_for": "حلويات وصوصات",
+          "impact": "قوام غني وحلاوة عالية",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ghee",
+      "name_ar": "السمن البلدي",
+      "cat": "fats",
+      "tags": "سمن,دهون,خبز,طبخ",
+      "substitutes": [
+        {
+          "sub_name": "زبدة",
+          "ratio": "1 : 1",
+          "best_for": "طبخ وخبز",
+          "impact": "تحتوي ماء أكثر ونكهة ألبان أوضح",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زيت نباتي",
+          "ratio": "تقريبًا ¾ كوب زيت لكل كوب دهون صلبة حسب الوصفة",
+          "best_for": "قلي وطبخ وخبز معين",
+          "impact": "دهون سائلة؛ تغير في القوام",
+          "score": "good",
+          "source": "KAB_FAT",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "butter",
+      "name_ar": "الزبدة",
+      "cat": "fats",
+      "tags": "زبدة,دهون,خبز,كيك",
+      "substitutes": [
+        {
+          "sub_name": "مارجرين/سمن نباتي",
+          "ratio": "1 : 1",
+          "best_for": "الخبز والطبخ",
+          "impact": "قريب في السلوك إذا كان منتج الخَبز مناسبًا",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زيت نباتي",
+          "ratio": "⅞ كوب زيت لكل كوب زبدة كقاعدة إرشادية",
+          "best_for": "طبخ وبعض وصفات الخَبز",
+          "impact": "الزيت 100% دهون بينما الزبدة تحتوي ماء؛ قد يتغير القوام",
+          "score": "good",
+          "source": "USU",
+          "note": "ليس استبدالًا آمنًا 1:1 في كل وصفة."
+        },
+        {
+          "sub_name": "زبدة نباتية",
+          "ratio": "1 : 1",
+          "best_for": "الخبز الخالي من الألبان",
+          "impact": "قريبة جدًا في كثير من الوصفات",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "oil",
+      "name_ar": "الزيت النباتي",
+      "cat": "fats",
+      "tags": "زيت,طبخ,قلي,كيك",
+      "substitutes": [
+        {
+          "sub_name": "سمن/Shortening مذاب",
+          "ratio": "1 : 1",
+          "best_for": "القلي والخبز",
+          "impact": "دهون صلبة عند التبريد؛ قد تغير القوام",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زبدة مذابة",
+          "ratio": "1 : 1 في بعض وصفات الطبخ",
+          "best_for": "طبخ وصوصات",
+          "impact": "تضيف ماءً ونكهة ألبان",
+          "score": "good",
+          "source": "KAB_FAT",
+          "note": ""
+        },
+        {
+          "sub_name": "زيت آخر محايد",
+          "ratio": "1 : 1",
+          "best_for": "القلي والخبز",
+          "impact": "أقرب تطابق عند اختيار زيت محايد",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "shortening",
+      "name_ar": "السمن النباتي / Shortening",
+      "cat": "fats",
+      "tags": "دهون,خبز,Shortening",
+      "substitutes": [
+        {
+          "sub_name": "زبدة",
+          "ratio": "1⅛ كوب لكل كوب Shortening",
+          "best_for": "الخبز",
+          "impact": "قد تزيد الرطوبة والماء وتحتاج تقليل الملح",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "لارد",
+          "ratio": "⅞ كوب لكل كوب Shortening",
+          "best_for": "عجين وفطائر",
+          "impact": "يعطي هشاشة عالية؛ غير نباتي",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "زيت نباتي",
+          "ratio": "1 : 1 إذا كان الـShortening مذابًا",
+          "best_for": "طبخ ووصفات محددة",
+          "impact": "دهون سائلة؛ لا يعطي نفس القوام البارد",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "coconut-oil",
+      "name_ar": "زيت جوز الهند",
+      "cat": "fats",
+      "tags": "زيت جوز الهند,نباتي,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "زيت نباتي محايد",
+          "ratio": "1 : 1",
+          "best_for": "طبخ وخبز",
+          "impact": "ينقص نكهة جوز الهند",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبدة",
+          "ratio": "1 : 1 في بعض الوصفات",
+          "best_for": "حلويات وخبز",
+          "impact": "الزبدة تحتوي ماء لذلك القوام قد يتغير",
+          "score": "good",
+          "source": "KAB_FAT",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tahini",
+      "name_ar": "الطحينة",
+      "cat": "fats",
+      "tags": "طحينة,سمسم,صلصات,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "زبدة الفول السوداني الناعمة",
+          "ratio": "1 : 1",
+          "best_for": "صلصات وتغميسات ووصفات حلوة",
+          "impact": "نكهة أقوى وحلاوة أعلى عادةً",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبدة اللوز الناعمة",
+          "ratio": "1 : 1",
+          "best_for": "صلصات وحلويات",
+          "impact": "نكهة مكسرات أخف نسبيًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "baking-powder",
+      "name_ar": "البيكنج باودر",
+      "cat": "baking",
+      "tags": "رفع,كيك,بيكنج باودر",
+      "substitutes": [
+        {
+          "sub_name": "بيكنج صودا + كريم التارتار + نشا",
+          "ratio": "¼ م صودا + ½ م كريم تارتار + ¼ م نشا لكل 1 م باودر",
+          "best_for": "كيك وبسكويت",
+          "impact": "تقريب محلي الصنع للبيكنج باودر",
+          "score": "excellent",
+          "source": "KAB_BP",
+          "note": ""
+        },
+        {
+          "sub_name": "بيكنج صودا + كريم التارتار",
+          "ratio": "¼ م صودا + ⅝ م كريم تارتار لكل 1 م باودر",
+          "best_for": "مخبوزات",
+          "impact": "رفع مناسب مع ضبط الحموضة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "بيكنج صودا + حمض",
+          "ratio": "¼ م صودا + ½ م عصير ليمون/خل لكل 1 م باودر في صيغة منشورة",
+          "best_for": "وصفات محددة",
+          "impact": "يعتمد على وجود سائل وحموضة كافيين",
+          "score": "good",
+          "source": "KAB_BP",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "baking-soda",
+      "name_ar": "البيكنج صودا",
+      "cat": "baking",
+      "tags": "رفع,صودا,بيكنج",
+      "substitutes": [
+        {
+          "sub_name": "بيكنج باودر",
+          "ratio": "3 م بيكنج باودر لكل 1 م صودا",
+          "best_for": "مخبوزات عند الضرورة",
+          "impact": "أقل قوة لكل ملعقة وقد يترك طعمًا غير مرغوب فيه إذا زادت الكمية",
+          "score": "good",
+          "source": "KAB_BP",
+          "note": "ليس 1:1؛ وقد تتغير الحموضة والانتشار."
+        },
+        {
+          "sub_name": "كريم التارتار + مسحوق قلوي مناسب",
+          "ratio": "بحسب تركيب الوصفة",
+          "best_for": "وصفات محددة",
+          "impact": "لا تستخدم صيغة واحدة عشوائيًا؛ البيكنج صودا تحتاج حمضًا",
+          "score": "good",
+          "source": "KAB_BP",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cream-of-tartar",
+      "name_ar": "كريم التارتار",
+      "cat": "baking",
+      "tags": "كريم التارتار,حموضة,مرينج",
+      "substitutes": [
+        {
+          "sub_name": "عصير ليمون أو خل",
+          "ratio": "½ م عصير/خل لكل ½ م كريم تارتار",
+          "best_for": "وصفات تحتاج حموضة",
+          "impact": "يضبط الحموضة لكن يضيف نكهة محتملة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "yeast",
+      "name_ar": "الخميرة الجافة النشطة",
+      "cat": "baking",
+      "tags": "خميرة,خبز,عجين",
+      "substitutes": [
+        {
+          "sub_name": "خميرة فورية",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "خبز وعجين",
+          "impact": "تعمل عادةً مباشرة في الدقيق",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خميرة طازجة/مضغوطة",
+          "ratio": "تقريبًا 3 أضعاف وزن الخميرة الجافة",
+          "best_for": "عجين الخبز",
+          "impact": "تحتاج مراعاة رطوبة ونشاط الخميرة",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cake-flour",
+      "name_ar": "دقيق الكيك",
+      "cat": "baking",
+      "tags": "دقيق,كيك,نشا",
+      "substitutes": [
+        {
+          "sub_name": "دقيق متعدد الاستخدام + نشا ذرة",
+          "ratio": "¾ كوب + 2 م دقيق + 2 م نشا لكل 1 كوب دقيق كيك",
+          "best_for": "الكيك والكب كيك",
+          "impact": "يقلل البروتين ويعطي فتاتًا أنعم",
+          "score": "excellent",
+          "source": "KAB_CAKE",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق متعدد الاستخدام",
+          "ratio": "1 : 1",
+          "best_for": "كيك عند عدم وجود البديل",
+          "impact": "فتات أخشن قليلًا لكنه يعمل غالبًا",
+          "score": "excellent",
+          "source": "KAB_CAKE",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "all-purpose-flour",
+      "name_ar": "الدقيق متعدد الاستخدام",
+      "cat": "baking",
+      "tags": "دقيق,طحين,خبز",
+      "substitutes": [
+        {
+          "sub_name": "دقيق الكيك",
+          "ratio": "1 كوب + 2 م لكل 1 كوب دقيق متعدد الاستخدام في جدول USU",
+          "best_for": "كيك ووصفات طرية",
+          "impact": "أقل بروتينًا؛ لا يصلح دائمًا للوصفات التي تتطلب بنية قوية",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق خبز",
+          "ratio": "1 : 1 في الخبز، مع تفاوت بسيط في القوام",
+          "best_for": "خبز وخبز مسطح",
+          "impact": "بروتين أعلى عادةً؛ قد يزيد المطاطية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خليط خالٍ من الجلوتين",
+          "ratio": "1 : 1 حسب المنتج",
+          "best_for": "وصفات صُممت أو تسمح بذلك",
+          "impact": "النتيجة تختلف حسب الخلطة والغرويات",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "bread-flour",
+      "name_ar": "دقيق الخبز",
+      "cat": "baking",
+      "tags": "دقيق,خبز,جلوتين",
+      "substitutes": [
+        {
+          "sub_name": "دقيق متعدد الاستخدام",
+          "ratio": "1 : 1",
+          "best_for": "خبز منزلي",
+          "impact": "قد يعطي بنية أضعف قليلًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق قوي عالي البروتين",
+          "ratio": "1 : 1",
+          "best_for": "خبز وبريوش",
+          "impact": "قريب جدًا مع اختلاف النشاط",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "whole-wheat",
+      "name_ar": "الدقيق الأسمر / القمح الكامل",
+      "cat": "baking",
+      "tags": "قمح كامل,دقيق,خبز",
+      "substitutes": [
+        {
+          "sub_name": "دقيق متعدد الاستخدام",
+          "ratio": "1 : 1 في كثير من الوصفات",
+          "best_for": "مخبوزات أخف",
+          "impact": "قوام أخف وأقل نكهة حبوب",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "نصف أسمر + نصف أبيض",
+          "ratio": "استبدال 50% من المطلوب",
+          "best_for": "خبز ومافن",
+          "impact": "حل وسط في النكهة والامتصاص",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cornstarch",
+      "name_ar": "نشا الذرة",
+      "cat": "baking",
+      "tags": "نشا,تكثيف,كاسترد",
+      "substitutes": [
+        {
+          "sub_name": "دقيق متعدد الاستخدام",
+          "ratio": "2 م دقيق لكل 1 م نشا",
+          "best_for": "تكثيف الصوصات",
+          "impact": "أثقل ويحتاج وقتًا أطول للطبخ",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "تابيوكا",
+          "ratio": "1 : 1 في كثير من الصوصات",
+          "best_for": "تكثيف وحشوات",
+          "impact": "أكثر مطاطية وشفافية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "نشا البطاطس",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "تكثيف الصوصات",
+          "impact": "يعطي لمعانًا ويعمل سريعًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "potato-starch",
+      "name_ar": "نشا البطاطس",
+      "cat": "baking",
+      "tags": "نشا,جلوتين فري,تكثيف",
+      "substitutes": [
+        {
+          "sub_name": "نشا الذرة",
+          "ratio": "1 : 1 للتكثيف",
+          "best_for": "صوصات وحشوات",
+          "impact": "قوام قريب مع اختلاف بسيط",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "أرو رووت",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "صلصات وحلويات",
+          "impact": "قوام شفاف نسبيًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "arrowroot",
+      "name_ar": "أرو رووت / Arrowroot",
+      "cat": "baking",
+      "tags": "أرو رووت,نشا,صوص",
+      "substitutes": [
+        {
+          "sub_name": "نشا الذرة",
+          "ratio": "½ م نشا لكل 1 م دقيق كمُكثّف",
+          "best_for": "صوصات وحشوات",
+          "impact": "فعالية تكثيف جيدة",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "نشا البطاطس",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "صلصات خالية من الجلوتين",
+          "impact": "شفافية جيدة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tapioca",
+      "name_ar": "تابيوكا / نشا التابيوكا",
+      "cat": "baking",
+      "tags": "تابيوكا,نشا,جلوتين فري",
+      "substitutes": [
+        {
+          "sub_name": "نشا الذرة",
+          "ratio": "1 : 1 في بعض الاستخدامات",
+          "best_for": "تكثيف صوصات وحشوات",
+          "impact": "أقل مطاطية من التابيوكا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "نشا البطاطس",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "خبز خالٍ من الجلوتين وصوص",
+          "impact": "قوام مختلف قليلًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "breadcrumbs",
+      "name_ar": "فتات الخبز",
+      "cat": "baking",
+      "tags": "فتات,بقسماط,كفتة,تغطية",
+      "substitutes": [
+        {
+          "sub_name": "شوفان مطحون خشن",
+          "ratio": "1 : 1",
+          "best_for": "برجر، كفتة وتغطية",
+          "impact": "أعلى أليافًا ويمتص السائل",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بسكويت مالح مطحون",
+          "ratio": "1 : 1",
+          "best_for": "تغطية وكفتة",
+          "impact": "يزيد الملح والنكهة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق أو نشا للتغطية",
+          "ratio": "حسب الوصفة",
+          "best_for": "تغطية القلي",
+          "impact": "قرمشة مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "gelatin",
+      "name_ar": "الجيلاتين",
+      "cat": "baking",
+      "tags": "جيلاتين,تثبيت,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "أجار أجار",
+          "ratio": "حوالي 1 : 1 بالوزن مع تعديلات حسب المنتج",
+          "best_for": "جيلي، حلويات نباتية",
+          "impact": "أشدّ وأكثر ثباتًا عادةً",
+          "score": "good",
+          "source": "GENERAL",
+          "note": "اتبِع تعليمات المنتج لأن قوة الأجار تختلف."
+        },
+        {
+          "sub_name": "نشا الذرة",
+          "ratio": "للتثخين لا للتجلية المرنة",
+          "best_for": "كاسترد وصوص",
+          "impact": "يعطي قوامًا كريميًا بدل الجيلي",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "agar",
+      "name_ar": "أجار أجار",
+      "cat": "baking",
+      "tags": "أجار,نباتي,تجلية",
+      "substitutes": [
+        {
+          "sub_name": "جيلاتين",
+          "ratio": "حسب قوة الوصفة والمنتج",
+          "best_for": "جيلي وحلويات",
+          "impact": "قوام أكثر مرونة عادةً؛ غير نباتي",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بكتين",
+          "ratio": "حسب تعليمات المنتج",
+          "best_for": "مربى وهلام الفواكه",
+          "impact": "يتطلب سكرًا وحموضة في بعض الأنواع",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "xanthan",
+      "name_ar": "صمغ الزانثان",
+      "cat": "baking",
+      "tags": "زانثان,جلوتين فري,خبز",
+      "substitutes": [
+        {
+          "sub_name": "صمغ الغوار",
+          "ratio": "قريب من 1 : 1 في كميات صغيرة",
+          "best_for": "خبز خالٍ من الجلوتين وصوص",
+          "impact": "تأثير تثخين مختلف حسب السائل",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "قشور السيليوم",
+          "ratio": "تحتاج زيادة سائل",
+          "best_for": "خبز خالٍ من الجلوتين",
+          "impact": "تمتص ماءً كثيرًا وتضيف بنية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "guar",
+      "name_ar": "صمغ الغوار",
+      "cat": "baking",
+      "tags": "غوار,جلوتين فري,تثخين",
+      "substitutes": [
+        {
+          "sub_name": "زانثان",
+          "ratio": "1 : 1 تقريبًا في كميات صغيرة",
+          "best_for": "تثخين وخبز خالٍ من الجلوتين",
+          "impact": "تأثير مختلف على القوام",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سيليوم",
+          "ratio": "مع زيادة سائل وفق الوصفة",
+          "best_for": "خبز خالٍ من الجلوتين",
+          "impact": "يعطي بنية وأليافًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cocoa",
+      "name_ar": "الكاكاو غير المحلى",
+      "cat": "baking",
+      "tags": "كاكاو,شوكولاتة,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "شوكولاتة غير محلاة + تقليل دهون",
+          "ratio": "1 أونصة شوكولاتة بدل ¼ كوب كاكاو، مع خفض ½ م دهون",
+          "best_for": "كيك وبراونيز",
+          "impact": "يزيد الدهن والرطوبة؛ اضبط السكر حسب الشوكولاتة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "بودرة شوكولاتة ساخنة غير محلاة نسبيًا",
+          "ratio": "بكميات صغيرة مع تعديل السكر",
+          "best_for": "حلويات",
+          "impact": "غير موثوق بسبب السكر والحليب في بعض الخلطات",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "unsweetened-chocolate",
+      "name_ar": "شوكولاتة غير محلاة",
+      "cat": "baking",
+      "tags": "شوكولاتة,كاكاو",
+      "substitutes": [
+        {
+          "sub_name": "3 م كاكاو + 1 م دهون",
+          "ratio": "لكل 1 أونصة شوكولاتة",
+          "best_for": "براونيز وكيك",
+          "impact": "قريب وظيفيًا مع تعديل الدهون",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "chocolate",
+      "name_ar": "الشوكولاتة",
+      "cat": "baking",
+      "tags": "شوكولاتة,كاكاو,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "3 م كاكاو + 1 م دهن",
+          "ratio": "لكل 1 أونصة شوكولاتة",
+          "best_for": "حلويات وخبز",
+          "impact": "يعوض مواد الشوكولاتة الأساسية دون السكر حسب النوع",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "semisweet-chocolate",
+      "name_ar": "الشوكولاتة نصف الحلوة",
+      "cat": "baking",
+      "tags": "شوكولاتة,نصف حلوة",
+      "substitutes": [
+        {
+          "sub_name": "شوكولاتة غير محلاة + سكر",
+          "ratio": "½ أونصة شوكولاتة غير محلاة + 1 م ك سكر لكل 1 أونصة نصف حلوة",
+          "best_for": "براونيز وكيك",
+          "impact": "تحتاج ضبطًا حسب نوع الشوكولاتة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "شوكولاتة داكنة",
+          "ratio": "1 : 1",
+          "best_for": "حلويات",
+          "impact": "أقل حلاوة غالبًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "sugar",
+      "name_ar": "السكر الأبيض",
+      "cat": "sweet",
+      "tags": "سكر,حلويات,خبز",
+      "substitutes": [
+        {
+          "sub_name": "سكر بني",
+          "ratio": "1 : 1",
+          "best_for": "خبز وكيك وكراميل",
+          "impact": "لون ونكهة ورطوبة أكثر",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "عسل",
+          "ratio": "لكل 1 كوب سكر استخدم نحو ¾ كوب عسل مع تقليل السائل",
+          "best_for": "وصفات خبز وحلويات محددة",
+          "impact": "يضيف سائلًا وحلاوة ولونًا؛ ليس تبديلًا آمنًا في كل وصفة",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "شراب ذرة",
+          "ratio": "1 : 1 في بعض الوصفات، مع تقليل سوائل أخرى",
+          "best_for": "حلويات وصوصات",
+          "impact": "أكثر سائلة وأعلى احتفاظًا بالرطوبة",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "مولاس",
+          "ratio": "ليس 1:1؛ اضبط الكمية حسب الحلاوة والوصفة",
+          "best_for": "صلصات وحلويات داكنة",
+          "impact": "نكهة ولون قويان",
+          "score": "good",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "brown-sugar",
+      "name_ar": "السكر البني",
+      "cat": "sweet",
+      "tags": "سكر بني,مولاس,كوكيز",
+      "substitutes": [
+        {
+          "sub_name": "سكر أبيض + مولاس للفاتح",
+          "ratio": "1 كوب / 198 جم سكر + 2 م ص / 14 جم مولاس لكل كوب بني فاتح",
+          "best_for": "كوكيز وكيك",
+          "impact": "قريب جدًا في النكهة والرطوبة",
+          "score": "excellent",
+          "source": "KAB_BROWN",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر أبيض + مولاس للداكن",
+          "ratio": "1 كوب / 198 جم سكر + 1 م ك / 21 جم مولاس لكل كوب بني داكن",
+          "best_for": "كوكيز وكيك داكن",
+          "impact": "نكهة مولاس أعمق",
+          "score": "excellent",
+          "source": "KAB_BROWN",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر أبيض فقط",
+          "ratio": "1 : 1 في بعض الوصفات",
+          "best_for": "حلويات بسيطة",
+          "impact": "قد يغيّر الانتشار والارتفاع لأن السكر البني أكثر حمضية ورطوبة",
+          "score": "good",
+          "source": "KAB_BROWN",
+          "note": "لا تعتبره استبدالًا مضمونًا في الكوكيز والكيك."
+        }
+      ]
+    },
+    {
+      "id": "powdered-sugar",
+      "name_ar": "السكر البودرة",
+      "cat": "sweet",
+      "tags": "سكر بودرة,حلويات,تزيين",
+      "substitutes": [
+        {
+          "sub_name": "سكر أبيض مطحون ناعم",
+          "ratio": "1 : 1 بالوزن",
+          "best_for": "تزيين وحلويات",
+          "impact": "يفتقد النشا الموجود عادةً في السكر البودرة التجاري",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر أبيض + نشا",
+          "ratio": "حوالي 1 كوب سكر + 1 م ك نشا بعد الطحن",
+          "best_for": "تزيين وكريمة",
+          "impact": "قوام أقرب للسكر البودرة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "honey",
+      "name_ar": "العسل",
+      "cat": "sweet",
+      "tags": "عسل,محليات,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "سكر + ماء",
+          "ratio": "1¼ كوب سكر + ¼ كوب ماء لكل كوب عسل",
+          "best_for": "صلصات وحلويات",
+          "impact": "يقل فقدان الحلاوة لكن تقل النكهة الخاصة بالعسل",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "شراب القيقب",
+          "ratio": "نحو 1 : 1 مع ضبط السائل",
+          "best_for": "حلويات وبان كيك",
+          "impact": "نكهة مختلفة وأخف لزوجة أحيانًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "maple-syrup",
+      "name_ar": "شراب القيقب",
+      "cat": "sweet",
+      "tags": "قيقب,محليات,بان كيك",
+      "substitutes": [
+        {
+          "sub_name": "عسل",
+          "ratio": "1 : 1",
+          "best_for": "بان كيك وصوصات وحلويات",
+          "impact": "أكثر لزوجة ونكهة عسل",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "شراب الذرة",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وحلويات",
+          "impact": "أقل نكهة مميزة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر + ماء",
+          "ratio": "بحسب درجة الحلاوة المطلوبة",
+          "best_for": "طبخ وخبز",
+          "impact": "سائل أقل تماسكًا بحسب التركيز",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "corn-syrup",
+      "name_ar": "شراب الذرة",
+      "cat": "sweet",
+      "tags": "شراب ذرة,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "سكر + ماء",
+          "ratio": "1 كوب سكر + ¼ كوب ماء لكل كوب شراب ذرة",
+          "best_for": "صوصات وحلويات",
+          "impact": "أقل انقلابًا للسكر وقد يتبلور في وصفات معينة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "عسل",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وحلويات",
+          "impact": "نكهة عسل أوضح",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "molasses",
+      "name_ar": "المولاس / دبس السكر",
+      "cat": "sweet",
+      "tags": "مولاس,دبس,سكر بني",
+      "substitutes": [
+        {
+          "sub_name": "عسل",
+          "ratio": "1 : 1 في الصوصات وبعض المخبوزات",
+          "best_for": "صلصات وحلويات",
+          "impact": "أخف لونًا ونكهة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "شراب القيقب الداكن",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وصوصات",
+          "impact": "أخف كثافة ونكهة مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر بني + قليل سائل",
+          "ratio": "بحسب الوصفة",
+          "best_for": "صلصات وحلويات",
+          "impact": "يفتقد النكهة المعدنية للمولاس",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "granulated-sweetener",
+      "name_ar": "سكر خشن للتزيين",
+      "cat": "sweet",
+      "tags": "تزيين,سكر,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "سكر أبيض ناعم",
+          "ratio": "1 : 1",
+          "best_for": "تزيين وحلويات",
+          "impact": "حبيبات أقل وضوحًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر ديميرارا/توربينادو ناعم",
+          "ratio": "1 : 1",
+          "best_for": "تزيين وحلويات",
+          "impact": "لون ونكهة كراميل خفيفة",
+          "score": "good",
+          "source": "KAB_BROWN",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "vanilla",
+      "name_ar": "الفانيليا",
+      "cat": "spice",
+      "tags": "فانيليا,حلويات,نكهة",
+      "substitutes": [
+        {
+          "sub_name": "بوربون/روم/ويسكي",
+          "ratio": "ضعف كمية الفانيليا",
+          "best_for": "حلويات وصلصات",
+          "impact": "نكهة كحولية أكثر وضوحًا",
+          "score": "excellent",
+          "source": "KAB_MORE",
+          "note": "تجنب عند الرغبة في وصفة خالية من الكحول."
+        },
+        {
+          "sub_name": "مستخلص لوز",
+          "ratio": "½–1 من الكمية حسب القوة",
+          "best_for": "حلويات",
+          "impact": "نكهة مختلفة وأقوى",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سكر فانيليا",
+          "ratio": "ضع كمية مكافئة من السكر مع خفض السكر الآخر",
+          "best_for": "كيك وكريمة",
+          "impact": "يضيف سكرًا وليس مستخلصًا مركزًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "lemon-juice",
+      "name_ar": "عصير الليمون",
+      "cat": "spice",
+      "tags": "ليمون,حموضة,صوص",
+      "substitutes": [
+        {
+          "sub_name": "خل أبيض",
+          "ratio": "½ م خل لكل 1 م عصير ليمون بحسب جدول USU",
+          "best_for": "حموضة وتتبيلات",
+          "impact": "أقوى حموضة ونكهة مختلفة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        },
+        {
+          "sub_name": "خل تفاح",
+          "ratio": "½–1 م لكل 1 م حسب الوصفة",
+          "best_for": "صلصات وتتبيلات",
+          "impact": "أخف رائحة من الخل الأبيض",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "حمض الليمون المخفف",
+          "ratio": "حسب تعليمات المنتج",
+          "best_for": "حفظ وصوصات",
+          "impact": "حموضة مركزة جدًا؛ يحتاج وزنًا/تخفيفًا دقيقًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "vinegar",
+      "name_ar": "الخل الأبيض",
+      "cat": "spice",
+      "tags": "خل,حموضة,مخللات",
+      "substitutes": [
+        {
+          "sub_name": "عصير ليمون",
+          "ratio": "نحو 1 : 1 في كثير من التتبيلات",
+          "best_for": "سلطات، صوصات ومخللات سريعة",
+          "impact": "نكهة حمضية مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خل تفاح",
+          "ratio": "1 : 1",
+          "best_for": "تتبيلات وصلصات",
+          "impact": "نكهة فاكهية أخف",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "garlic",
+      "name_ar": "الثوم الطازج",
+      "cat": "spice",
+      "tags": "ثوم,بهارات,طبخ",
+      "substitutes": [
+        {
+          "sub_name": "ثوم بودرة",
+          "ratio": "⅛ م ص تقريبًا لكل فص حسب القوة",
+          "best_for": "صلصات وأطباق سريعة",
+          "impact": "أقل نضارة وأكثر جفافًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "ثوم معجون",
+          "ratio": "نحو 1 م ص لكل فص حسب القوة",
+          "best_for": "صلصات وتتبيلات",
+          "impact": "قوام أكثر نعومة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كراث/شالوت + توابل",
+          "ratio": "حسب الوصفة",
+          "best_for": "أطباق مالحة",
+          "impact": "لا يعطي نفس نكهة الثوم",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "onion",
+      "name_ar": "البصل الطازج",
+      "cat": "spice",
+      "tags": "بصل,طبخ,شوربة",
+      "substitutes": [
+        {
+          "sub_name": "بصل بودرة",
+          "ratio": "1 م ص لكل نحو ⅓–½ كوب بصل مفروم حسب القوة",
+          "best_for": "شوربات وصلصات",
+          "impact": "نكهة مركزة دون قوام البصل",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "شالوت",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "صلصات وسوتيه",
+          "impact": "نكهة ألطف وأقرب",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بصل أخضر",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "أطباق آسيوية وسلطات",
+          "impact": "أخف وأعطر",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cinnamon",
+      "name_ar": "القرفة",
+      "cat": "spice",
+      "tags": "قرفة,حلويات,بهارات",
+      "substitutes": [
+        {
+          "sub_name": "بهار حلو / Allspice",
+          "ratio": "نحو 1 : 1 لكن بنكهة مختلفة",
+          "best_for": "حلويات ومشروبات",
+          "impact": "أكثر تعقيدًا وقوة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "مزيج قرفة + لمسة جوزة الطيب",
+          "ratio": "اضبط حسب الوصفة",
+          "best_for": "حلويات",
+          "impact": "نكهة أكثر دفئًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "nutmeg",
+      "name_ar": "جوزة الطيب",
+      "cat": "spice",
+      "tags": "جوزة الطيب,بهارات,صوص",
+      "substitutes": [
+        {
+          "sub_name": "Mace / قشرة جوزة الطيب",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "بشاميل وحلويات وتتبيلات",
+          "impact": "قريب جدًا من النكهة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بهار حلو",
+          "ratio": "½ : 1 تقريبًا بحسب القوة",
+          "best_for": "حلويات وصلصات",
+          "impact": "أقوى في بعض الخلطات",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cumin",
+      "name_ar": "الكمون",
+      "cat": "spice",
+      "tags": "كمون,بهارات,لحوم,بقول",
+      "substitutes": [
+        {
+          "sub_name": "كزبرة مطحونة",
+          "ratio": "1 : 1 في الأطباق الشرقية عند غياب الكمون",
+          "best_for": "أرز، لحوم وبقول",
+          "impact": "عطر أكثر حمضية وأخف دفئًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كاري + قليل كزبرة",
+          "ratio": "حسب الوصفة",
+          "best_for": "أطباق هندية وشرق أوسطية",
+          "impact": "أعقد وأقوى",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "paprika",
+      "name_ar": "البابريكا",
+      "cat": "spice",
+      "tags": "بابريكا,فلفل,لون",
+      "substitutes": [
+        {
+          "sub_name": "فلفل أحمر حلو مطحون",
+          "ratio": "1 : 1",
+          "best_for": "ألوان وتتبيل",
+          "impact": "قريب جدًا إن كان غير حار",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "مسحوق فلفل تشيلي + قليل سكر",
+          "ratio": "أقل بكمية حسب الحرارة",
+          "best_for": "أطباق حارة",
+          "impact": "أحرّ بوضوح",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ginger",
+      "name_ar": "الزنجبيل",
+      "cat": "spice",
+      "tags": "زنجبيل,حلويات,آسيوي",
+      "substitutes": [
+        {
+          "sub_name": "زنجبيل مطحون",
+          "ratio": "¼ م ص تقريبًا لكل 1 م ك زنجبيل طازج",
+          "best_for": "حلويات وطبخ",
+          "impact": "أقوى وأجف؛ اضبط حسب الوصفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زنجبيل معجون",
+          "ratio": "1 م ك تقريبًا لكل 1 م ك طازج",
+          "best_for": "صلصات وأطباق آسيوية",
+          "impact": "أقرب للقوام والنكهة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "turmeric",
+      "name_ar": "الكركم",
+      "cat": "spice",
+      "tags": "كركم,لون,توابل",
+      "substitutes": [
+        {
+          "sub_name": "زعفران/زعفران كاذب حسب الطبق",
+          "ratio": "كمية صغيرة جدًا",
+          "best_for": "لون ورائحة في الأرز والشوربات",
+          "impact": "أغلى وأقوى نكهة؛ ليس بديلًا متساويًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بابريكا حلوة",
+          "ratio": "1 : 1 للون أكثر من النكهة",
+          "best_for": "أرز وشوربات",
+          "impact": "تلوين ونكهة مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cardamom",
+      "name_ar": "الهيل",
+      "cat": "spice",
+      "tags": "هيل,قهوة,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "مزيج قرفة + قليل قرنفل",
+          "ratio": "حسب الوصفة",
+          "best_for": "حلويات ومشروبات",
+          "impact": "يعطي دفءً عطريًا بدل نكهة الهيل",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "مستخلص هيل",
+          "ratio": "حسب تركيز المنتج",
+          "best_for": "حلويات وقهوة",
+          "impact": "أكثر تركيزًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "allspice",
+      "name_ar": "البهار الحلو",
+      "cat": "spice",
+      "tags": "Allspice,بهارات",
+      "substitutes": [
+        {
+          "sub_name": "½ قرفة + ½ قرنفل",
+          "ratio": "لكل 1 م بهار حلو",
+          "best_for": "لحوم، صوصات وحلويات",
+          "impact": "بديل منشور ومقارب",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "pumpkin-spice",
+      "name_ar": "Pumpkin Pie Spice",
+      "cat": "spice",
+      "tags": "بهارات قرع,قرفة,زنجبيل",
+      "substitutes": [
+        {
+          "sub_name": "½ قرفة + ¼ زنجبيل + ⅛ بهار حلو + ⅛ جوزة الطيب",
+          "ratio": "لكل 1 م خلطة",
+          "best_for": "حلويات القرع والمخبوزات",
+          "impact": "تركيبة مرجعية مقاربة",
+          "score": "excellent",
+          "source": "USU",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mixed-spice",
+      "name_ar": "خلطة السبع بهارات",
+      "cat": "spice",
+      "tags": "بهارات,سبع بهارات,لحوم",
+      "substitutes": [
+        {
+          "sub_name": "قرفة + كمون + كزبرة + فلفل أسود + بابريكا",
+          "ratio": "اضبط بنسب متقاربة حسب الاستخدام",
+          "best_for": "لحوم وأرز وحشوات",
+          "impact": "النتيجة تختلف حسب تركيبة الخلطة الأصلية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tomato-paste",
+      "name_ar": "معجون الطماطم",
+      "cat": "sauces",
+      "tags": "طماطم,صلصة,معجون",
+      "substitutes": [
+        {
+          "sub_name": "صلصة طماطم مطبوخة ومركزة",
+          "ratio": "حوالي 3 : 1 من الصلصة العادية للوصول لقوة المعجون",
+          "best_for": "شوربات وصوصات",
+          "impact": "أخف تركيزًا وتحتاج طبخًا إضافيًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "طماطم معلبة مصفاة ومطبوخة حتى التركيز",
+          "ratio": "اضبط الكمية حتى تحقق سماكة المعجون",
+          "best_for": "صلصات ويخنات",
+          "impact": "نكهة طماطم طبيعية مع ماء أكثر",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mayonnaise",
+      "name_ar": "المايونيز",
+      "cat": "sauces",
+      "tags": "مايونيز,صوص,سلطة",
+      "substitutes": [
+        {
+          "sub_name": "قشدة حامضة",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وتغميسات وصوصات",
+          "impact": "أكثر حموضة وأقل زيتًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي سادة أو يوناني",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وتغميسات",
+          "impact": "أخف وأعلى حموضة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "جبن قريش مهروس",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وصوصات بروتينية",
+          "impact": "أثقل وأكثر بروتينًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ketchup",
+      "name_ar": "الكاتشب",
+      "cat": "sauces",
+      "tags": "كاتشب,طماطم,صوص",
+      "substitutes": [
+        {
+          "sub_name": "1 كوب صلصة طماطم + ½ كوب سكر + 2 م ك خل",
+          "ratio": "لكل 1 كوب كاتشب",
+          "best_for": "برجر وصوصات",
+          "impact": "حلاوة وحموضة ولزوجة قريبة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "bbq-sauce",
+      "name_ar": "صوص الباربكيو",
+      "cat": "sauces",
+      "tags": "باربكيو,صوص,شواء",
+      "substitutes": [
+        {
+          "sub_name": "¾ كوب كاتشب + 2 م ك مستردة + 2 م ك سكر بني",
+          "ratio": "لكل نحو 1 كوب صوص باربكيو",
+          "best_for": "شواء ودجاج وبرجر",
+          "impact": "حلو وحامض وقريب وظيفيًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "كاتشب + مولاس + خل + توابل",
+          "ratio": "اضبط حسب الحلاوة والحموضة",
+          "best_for": "شواء",
+          "impact": "نكهة أعمق وأكثر دخانية إذا أضيف بابريكا مدخنة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mustard",
+      "name_ar": "المستردة",
+      "cat": "sauces",
+      "tags": "مستردة,خردل,صوص",
+      "substitutes": [
+        {
+          "sub_name": "ديجون",
+          "ratio": "1 : 1",
+          "best_for": "تتبيلات وصوصات",
+          "impact": "نكهة أقوى وأنعم حسب النوع",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "خل + رشة كركم + مسحوق خردل",
+          "ratio": "اضبط القوام والحموضة",
+          "best_for": "تتبيلات وصوصات",
+          "impact": "بديل تقريبي وليس مطابقًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "soy-sauce",
+      "name_ar": "صوص الصويا",
+      "cat": "sauces",
+      "tags": "صويا,ملح,آسيوي",
+      "substitutes": [
+        {
+          "sub_name": "تاماري",
+          "ratio": "1 : 1",
+          "best_for": "أطباق آسيوية",
+          "impact": "قريب جدًا مع اختلاف بسيط في النكهة؛ افحص الملصق إذا لزم تجنب الجلوتين",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "أمينوس جوز الهند",
+          "ratio": "1 : 1",
+          "best_for": "وصفات خالية من الصويا",
+          "impact": "أكثر حلاوة وأخف ملوحة عادةً",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "مرق + ملح",
+          "ratio": "حسب الوصفة",
+          "best_for": "شوربات وصلصات عند الضرورة",
+          "impact": "ينقصه العمق التخميـري للصويا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "fish-sauce",
+      "name_ar": "صوص السمك",
+      "cat": "sauces",
+      "tags": "سمك,أومامي,آسيوي",
+      "substitutes": [
+        {
+          "sub_name": "صوص الصويا + نقطة ليمون",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "أطباق آسيوية",
+          "impact": "أومامي وملوحة دون رائحة السمك",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "تاماري",
+          "ratio": "1 : 1",
+          "best_for": "صوصات وتتبيلات",
+          "impact": "قريب في الملوحة وأومامي أقل خصوصية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "oyster-sauce",
+      "name_ar": "صوص المحار",
+      "cat": "sauces",
+      "tags": "محار,أومامي,آسيوي",
+      "substitutes": [
+        {
+          "sub_name": "صوص هويسن",
+          "ratio": "1 : 1",
+          "best_for": "مقليات وأطباق آسيوية",
+          "impact": "أحلى وأثقل وأقل بحرية",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "صويا + سكر + نشا مذاب",
+          "ratio": "حسب الوصفة",
+          "best_for": "صوصات آسيوية",
+          "impact": "ملوحة وأومامي مع قوام قريب",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "hoisin",
+      "name_ar": "صوص هويسن",
+      "cat": "sauces",
+      "tags": "هويسن,آسيوي,صوص",
+      "substitutes": [
+        {
+          "sub_name": "صوص باربكيو",
+          "ratio": "1 : 1",
+          "best_for": "تتبيلات آسيوية ومشاوي",
+          "impact": "أكثر مدخنة/حلوة بحسب النوع",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبدة فول سوداني + صويا + سكر",
+          "ratio": "بنسب صغيرة واضبط القوام",
+          "best_for": "تغميس وصوص آسيوي",
+          "impact": "أثقل وأقوى فول سوداني",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "broth",
+      "name_ar": "المرق",
+      "cat": "sauces",
+      "tags": "مرق,شوربة,دجاج,لحم",
+      "substitutes": [
+        {
+          "sub_name": "ماء + توابل + خضار",
+          "ratio": "اضبط الملح والتوابل",
+          "best_for": "شوربات ويخنات",
+          "impact": "أخف أوماميًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "مرق خضار",
+          "ratio": "1 : 1",
+          "best_for": "شوربات وصوصات",
+          "impact": "بديل نباتي بنكهة مختلفة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "مكعب مرق مذاب",
+          "ratio": "حسب تعليمات العبوة",
+          "best_for": "شوربات وصلصات",
+          "impact": "قد يكون أعلى في الملح",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "name_ar": "النبيذ في الطبخ",
+      "cat": "sauces",
+      "tags": "نبيذ,صوص,طبخ",
+      "substitutes": [
+        {
+          "sub_name": "مرق + قليل خل عنب",
+          "ratio": "اضبط حتى تصل للحموضة المطلوبة",
+          "best_for": "صوصات وطبخ بطيء",
+          "impact": "يضيف سائلًا وحموضة دون كحول",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "عصير عنب + خل",
+          "ratio": "حسب الحلاوة والحموضة",
+          "best_for": "صوصات مطبوخة",
+          "impact": "أحلى من النبيذ ويحتاج تخفيفًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "pasta",
+      "name_ar": "المعكرونة",
+      "cat": "grains",
+      "tags": "مكرونة,نشا,غذاء",
+      "substitutes": [
+        {
+          "sub_name": "أرز أو نودلز أرز",
+          "ratio": "1 : 1 بالوزن تقريبًا",
+          "best_for": "شوربات وأطباق آسيوية",
+          "impact": "يتغير القوام ووقت الطهي",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "نودلز قمح أخرى",
+          "ratio": "1 : 1",
+          "best_for": "وصفات المكرونة",
+          "impact": "أقرب نتيجة عند نفس شكل القطعة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "name_ar": "الأرز الأبيض",
+      "cat": "grains",
+      "tags": "أرز,رز,مقبلات",
+      "substitutes": [
+        {
+          "sub_name": "كينوا",
+          "ratio": "1 : 1 بالحجم في بعض الأطباق",
+          "best_for": "أطباق جانبية وسلطات",
+          "impact": "أكثر بروتينًا ونكهة ترابية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "برغل",
+          "ratio": "1 : 1 بالحجم في السلطات والحشوات",
+          "best_for": "تبولة وحشوات",
+          "impact": "أسرع طهيًا بقوام مختلف",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كسكس",
+          "ratio": "1 : 1 في بعض الأطباق الجانبية",
+          "best_for": "أطباق جانبية",
+          "impact": "قوام أخف وأسرع إعدادًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "brown-rice",
+      "name_ar": "الأرز البني",
+      "cat": "grains",
+      "tags": "أرز,بني,ألياف",
+      "substitutes": [
+        {
+          "sub_name": "أرز أبيض",
+          "ratio": "1 : 1",
+          "best_for": "كل الاستخدامات",
+          "impact": "وقت طهي أقصر وقوام أنعم",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "برغل",
+          "ratio": "1 : 1 في السلطات والحشوات",
+          "best_for": "سلطات وحشوات",
+          "impact": "نكهة وقوام مختلفان",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "quinoa",
+      "name_ar": "الكينوا",
+      "cat": "grains",
+      "tags": "كينوا,بروتين,سلطة",
+      "substitutes": [
+        {
+          "sub_name": "برغل",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وحشوات",
+          "impact": "قوام مختلف وأقل بروتينًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "أرز",
+          "ratio": "1 : 1",
+          "best_for": "أطباق جانبية",
+          "impact": "أخف وأقل قرمشة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "bulgur",
+      "name_ar": "البرغل",
+      "cat": "grains",
+      "tags": "برغل,تبولة,حبوب",
+      "substitutes": [
+        {
+          "sub_name": "كسكس",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وحشوات",
+          "impact": "حبة أكبر وقوام مختلف",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كينوا",
+          "ratio": "1 : 1",
+          "best_for": "تبولة وسلطات",
+          "impact": "بروتين أعلى وقوام مختلف",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "oats",
+      "name_ar": "الشوفان",
+      "cat": "grains",
+      "tags": "شوفان,كوكيز,خبز",
+      "substitutes": [
+        {
+          "sub_name": "دقيق شوفان مطحون",
+          "ratio": "1 : 1",
+          "best_for": "كوكيز ومافن",
+          "impact": "أنعم ويحتاج ضبط السوائل",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "رقائق شعير",
+          "ratio": "1 : 1 في العصائد",
+          "best_for": "عصائد وحشوات",
+          "impact": "قوام ونكهة مختلفان",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "فتات خبز",
+          "ratio": "لربط وليس كحبوب فطور",
+          "best_for": "كفتة وكرات",
+          "impact": "وظيفة ربط مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "semolina",
+      "name_ar": "السميد",
+      "cat": "grains",
+      "tags": "سميد,بسبوسة,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "دقيق قمح خشن",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "حلويات وخبز",
+          "impact": "قوام أقرب عند نفس درجة الطحن",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق متعدد الاستخدام",
+          "ratio": "1 : 1 في بعض الكيك وليس البسبوسة الكلاسيكية",
+          "best_for": "كيك وبعض المخبوزات",
+          "impact": "يقلل الحبيبية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cornmeal",
+      "name_ar": "دقيق الذرة الأصفر",
+      "cat": "grains",
+      "tags": "ذرة,بان كيك,خبز",
+      "substitutes": [
+        {
+          "sub_name": "بولينتا ناعمة",
+          "ratio": "1 : 1",
+          "best_for": "أطباق الذرة والخبز",
+          "impact": "قوام قريب حسب درجة الطحن",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "سميد ناعم",
+          "ratio": "1 : 1 في بعض الوصفات",
+          "best_for": "وصفات تتطلب قوامًا محببًا",
+          "impact": "نكهة حبوب مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "legumes",
+      "name_ar": "الفاصوليا والبقول",
+      "cat": "proteins",
+      "tags": "فاصوليا,بقول,نباتي",
+      "substitutes": [
+        {
+          "sub_name": "عدس",
+          "ratio": "1 : 1 بالحجم في الحشوات والشوربات",
+          "best_for": "شوربات وحشوات نباتية",
+          "impact": "يتحول أسرع في الطهي ونكهته مختلفة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "حمص",
+          "ratio": "1 : 1",
+          "best_for": "سلطات، يخنات وحشوات",
+          "impact": "قوام متماسك ونكهة مختلفة",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "توفو",
+          "ratio": "1 : 1 حسب الطبق",
+          "best_for": "أطباق نباتية",
+          "impact": "يمتص النكهات وقوامه مختلف",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "lentils",
+      "name_ar": "العدس",
+      "cat": "proteins",
+      "tags": "عدس,بقول,شوربة",
+      "substitutes": [
+        {
+          "sub_name": "فاصوليا مسلوقة",
+          "ratio": "1 : 1 بالحجم في الشوربات واليخنات",
+          "best_for": "شوربات وحشوات",
+          "impact": "أكبر حجمًا وقوامًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "حمص مسلوق",
+          "ratio": "1 : 1",
+          "best_for": "شوربات وسلطات",
+          "impact": "قوام أكثر تماسكًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "chickpeas",
+      "name_ar": "الحمص",
+      "cat": "proteins",
+      "tags": "حمص,أكوافابا,بقول",
+      "substitutes": [
+        {
+          "sub_name": "فاصوليا بيضاء",
+          "ratio": "1 : 1",
+          "best_for": "حمصات وسلطات ويخنات",
+          "impact": "قوام كريمي قريب",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "فاصوليا حمرا",
+          "ratio": "1 : 1 في اليخنات",
+          "best_for": "يخنات وسلطات",
+          "impact": "لون ونكهة مختلفان",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tofu",
+      "name_ar": "التوفو",
+      "cat": "proteins",
+      "tags": "توفو,بروتين,نباتي",
+      "substitutes": [
+        {
+          "sub_name": "دجاج أو لحم حسب الطبق",
+          "ratio": "1 : 1 في بعض الوصفات غير النباتية",
+          "best_for": "قلي، سوتيه، حشوات",
+          "impact": "يتغير البروتين والدهون والقوام",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "تمبيه",
+          "ratio": "1 : 1",
+          "best_for": "أطباق نباتية",
+          "impact": "أكثر مضغًا ونكهة حبوب أقوى",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tempeh",
+      "name_ar": "التمبيه",
+      "cat": "proteins",
+      "tags": "تمبيه,بروتين,نباتي",
+      "substitutes": [
+        {
+          "sub_name": "توفو متماسك",
+          "ratio": "1 : 1",
+          "best_for": "أطباق نباتية ومقليات",
+          "impact": "أكثر نعومة وأقل كثافة",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "عدس أو فاصوليا",
+          "ratio": "1 : 1 في بعض الحشوات",
+          "best_for": "برجر وحشوات نباتية",
+          "impact": "قوام أكثر تفتتًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "chicken",
+      "name_ar": "الدجاج",
+      "cat": "proteins",
+      "tags": "دجاج,بروتين,بديل لحم",
+      "substitutes": [
+        {
+          "sub_name": "توفو متماسك",
+          "ratio": "1 : 1 بالحجم في بعض القلي السريع",
+          "best_for": "وصفات نباتية",
+          "impact": "يمتص الصوص ويختلف في القوام",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "فطر + بقول",
+          "ratio": "نصف فطر + نصف بقول",
+          "best_for": "حشوات وبرجر نباتي",
+          "impact": "نكهة أومامي وقوام مختلف",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ground-meat",
+      "name_ar": "اللحم المفروم",
+      "cat": "proteins",
+      "tags": "لحم مفروم,كفتة,برجر",
+      "substitutes": [
+        {
+          "sub_name": "عدس + فطر مفروم",
+          "ratio": "بنسبة تقريبية 1 : 1 بدل اللحم",
+          "best_for": "برجر، كفتة، حشوات",
+          "impact": "أكثر أليافًا وأقل دسمًا",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "فاصوليا مهروسة + شوفان",
+          "ratio": "بنسبة تقريبية 1 : 1",
+          "best_for": "برجر وكفتة نباتية",
+          "impact": "ربط قوي وقوام أكثر نعومة",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "nuts",
+      "name_ar": "المكسرات",
+      "cat": "nuts",
+      "tags": "مكسرات,لوز,جوز",
+      "substitutes": [
+        {
+          "sub_name": "بذور دوار الشمس",
+          "ratio": "1 : 1",
+          "best_for": "جرانولا، سلطات وتغطية",
+          "impact": "نكهة أقل حلاوة وتكلفة أقل عادةً",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "بذور اليقطين",
+          "ratio": "1 : 1",
+          "best_for": "جرانولا وسلطات",
+          "impact": "نكهة وبنية مختلفة قليلًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "شوفان محمص",
+          "ratio": "1 : 1 في بعض التغطيات",
+          "best_for": "جرانولا وحشوات",
+          "impact": "قرمشة أقل ونكهة حبوب",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "almonds",
+      "name_ar": "اللوز",
+      "cat": "nuts",
+      "tags": "لوز,مكسرات,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "كاجو",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وصوصات ومكسرات محمصة",
+          "impact": "دهون أكثر وملمس كريمي",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بذور عباد الشمس",
+          "ratio": "1 : 1",
+          "best_for": "بيستو، جرانولا، حشوات",
+          "impact": "خيار خالٍ من المكسرات",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "بذور القرع",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وجرانولا",
+          "impact": "لون أخضر ونكهة أوضح",
+          "score": "good",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "peanuts",
+      "name_ar": "الفول السوداني",
+      "cat": "nuts",
+      "tags": "فول سوداني,زبدة,مكسرات",
+      "substitutes": [
+        {
+          "sub_name": "زبدة اللوز",
+          "ratio": "1 : 1",
+          "best_for": "زبدة المكسرات وصوصات",
+          "impact": "نكهة ألطف وتكلفة أعلى غالبًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "طحينة",
+          "ratio": "1 : 1 في الصوصات والحلويات",
+          "best_for": "صوصات وتغميسات",
+          "impact": "نكهة سمسم واضحة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "peanut-butter",
+      "name_ar": "زبدة الفول السوداني",
+      "cat": "nuts",
+      "tags": "زبدة فول,مكسرات,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "زبدة اللوز",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وصوصات",
+          "impact": "قريبة في القوام",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "طحينة",
+          "ratio": "1 : 1 في الصوصات وبعض الحلويات",
+          "best_for": "تغميس وصوص",
+          "impact": "أقل حلاوة ونكهة سمسم",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زبدة دوار الشمس",
+          "ratio": "1 : 1",
+          "best_for": "وصفات خالية من المكسرات",
+          "impact": "قريبة وظيفيًا مع اختلاف النكهة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "fresh-fruit",
+      "name_ar": "الفاكهة الطازجة",
+      "cat": "produce",
+      "tags": "فاكهة,طازج,حلويات",
+      "substitutes": [
+        {
+          "sub_name": "فاكهة مجمدة غير محلاة",
+          "ratio": "1 : 1 بالوزن في كثير من الوصفات",
+          "best_for": "سموثي، فطائر وحلويات مطبوخة",
+          "impact": "قد تطلق ماءً أكثر بعد الذوبان",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "فاكهة معلبة في الماء أو عصير 100%",
+          "ratio": "استبدال بالحجم بعد التصفية",
+          "best_for": "حلويات وسلطات",
+          "impact": "قوام أطرى وقد تكون أحلى",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "fresh-vegetables",
+      "name_ar": "الخضار الطازج",
+      "cat": "produce",
+      "tags": "خضار,مجمد,معلب",
+      "substitutes": [
+        {
+          "sub_name": "خضار مجمد بدون صلصات أو توابل",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "شوربات، مقليات وطبخ",
+          "impact": "قوام أطرى قليلاً",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "خضار معلب قليل الصوديوم، مصفى ومغسول",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "شوربات ويخنات",
+          "impact": "أطرى وقد يكون أعلى ملوحة إذا لم يُغسل",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tomato",
+      "name_ar": "الطماطم الطازجة",
+      "cat": "produce",
+      "tags": "طماطم,صلصة,سلطة",
+      "substitutes": [
+        {
+          "sub_name": "طماطم معلبة",
+          "ratio": "1 : 1 في الطبخ",
+          "best_for": "صلصات ويخنات",
+          "impact": "أطرى وأعلى ماءً أحيانًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "صلصة طماطم",
+          "ratio": "حسب الهدف",
+          "best_for": "صوصات وشوربات",
+          "impact": "أكثر تركيزًا وأقل قوام طماطم قطع",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "spinach",
+      "name_ar": "السبانخ الطازجة",
+      "cat": "produce",
+      "tags": "سبانخ,خضار,طبخ",
+      "substitutes": [
+        {
+          "sub_name": "سبانخ مجمدة ومصفاة",
+          "ratio": "حوالي نصف كمية الطازج بالحجم بعد التصفية",
+          "best_for": "فطائر، شوربات وصلصات",
+          "impact": "أكثر رطوبة إن لم تُصفَّ جيدًا",
+          "score": "excellent",
+          "source": "ILL",
+          "note": ""
+        },
+        {
+          "sub_name": "ملوخية أو سلق مفروم",
+          "ratio": "1 : 1 في بعض الأطباق الخضراء",
+          "best_for": "شوربات وصلصات",
+          "impact": "قوام ونكهة مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "zucchini",
+      "name_ar": "الكوسة",
+      "cat": "produce",
+      "tags": "كوسة,خضار,خبز",
+      "substitutes": [
+        {
+          "sub_name": "قرع أصفر",
+          "ratio": "1 : 1",
+          "best_for": "قلي وطبخ وخبز",
+          "impact": "قوام قريب",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "باذنجان صغير",
+          "ratio": "1 : 1 في بعض الطبخ",
+          "best_for": "قلي ويخنات",
+          "impact": "يمتص دهونًا أكثر",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "carrot",
+      "name_ar": "الجزر",
+      "cat": "produce",
+      "tags": "جزر,خضار,كيك",
+      "substitutes": [
+        {
+          "sub_name": "بطاطا حلوة",
+          "ratio": "1 : 1 في بعض المهروس والخبز",
+          "best_for": "حلويات وخبز وشوربات",
+          "impact": "أكثر حلاوة ودسمًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "قرع",
+          "ratio": "1 : 1 في المهروس والخبز",
+          "best_for": "شوربات وكيك",
+          "impact": "لون برتقالي وقوام طري",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "potato",
+      "name_ar": "البطاطس",
+      "cat": "produce",
+      "tags": "بطاطس,نشا,هريس",
+      "substitutes": [
+        {
+          "sub_name": "بطاطا حلوة",
+          "ratio": "1 : 1",
+          "best_for": "مهروس وشوربات",
+          "impact": "أحلى ولون مختلف",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "قرع مهروس",
+          "ratio": "1 : 1 في بعض الحشوات",
+          "best_for": "شوربات وحشوات",
+          "impact": "ماء أكثر وقوام أكثر نعومة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "coconut-milk",
+      "name_ar": "حليب جوز الهند",
+      "cat": "dairy",
+      "tags": "جوز هند,نباتي,كاري",
+      "substitutes": [
+        {
+          "sub_name": "حليب + كريمة جوز هند",
+          "ratio": "حسب الدسم المطلوب",
+          "best_for": "كاري وحلويات",
+          "impact": "أخف أو أغنى حسب النسبة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "حليب نباتي + قليل زيت جوز الهند",
+          "ratio": "1 : 1 بالقوام",
+          "best_for": "كاري وشوربات",
+          "impact": "دهون ونكهة أقل تركيزًا",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "حليب مبخر",
+          "ratio": "1 : 1 في وصفات غير نباتية",
+          "best_for": "شوربات وحلويات",
+          "impact": "أعلى لاكتوز/ألبان ونكهة مختلفة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "coconut-cream",
+      "name_ar": "كريمة جوز الهند",
+      "cat": "dairy",
+      "tags": "جوز هند,كريمة,نباتي",
+      "substitutes": [
+        {
+          "sub_name": "كريمة ثقيلة",
+          "ratio": "1 : 1 في وصفات غير نباتية",
+          "best_for": "حلويات وكاري",
+          "impact": "نكهة أقل جوز هند",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "الجزء الصلب من حليب جوز الهند المبرد",
+          "ratio": "1 : 1",
+          "best_for": "حلويات وكريمة نباتية",
+          "impact": "أقرب نكهة وقوام",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "apple-sauce",
+      "name_ar": "صوص التفاح",
+      "cat": "sweet",
+      "tags": "تفاح,رطوبة,بيض",
+      "substitutes": [
+        {
+          "sub_name": "موز مهروس",
+          "ratio": "1 : 1",
+          "best_for": "مخبوزات رطبة",
+          "impact": "نكهة موز أكثر",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "قرع مهروس",
+          "ratio": "1 : 1",
+          "best_for": "مخبوزات وكيك",
+          "impact": "أقل حلاوة وأقرب في القوام",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "زبادي سادة",
+          "ratio": "1 : 1 في بعض الكيك",
+          "best_for": "كيك ومافن",
+          "impact": "أكثر بروتينًا وحموضة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "pumpkin-puree",
+      "name_ar": "قرع مهروس",
+      "cat": "produce",
+      "tags": "قرع,بيوريه,كيك",
+      "substitutes": [
+        {
+          "sub_name": "بطاطا حلوة مهروسة",
+          "ratio": "1 : 1",
+          "best_for": "فطائر وكيك وخبز",
+          "impact": "أحلى وأكثر كثافة",
+          "score": "excellent",
+          "source": "KAB_EGG",
+          "note": ""
+        },
+        {
+          "sub_name": "صوص تفاح",
+          "ratio": "1 : 1 في بعض المخبوزات",
+          "best_for": "كيك ومافن",
+          "impact": "رطوبة ونكهة فاكهية",
+          "score": "good",
+          "source": "KAB_EGG",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "breadcrumbs-bind",
+      "name_ar": "فتات الخبز للربط",
+      "cat": "baking",
+      "tags": "ربط,فتات,برجر",
+      "substitutes": [
+        {
+          "sub_name": "شوفان مطحون",
+          "ratio": "1 : 1",
+          "best_for": "برجر وكفتة",
+          "impact": "يمتص الماء ويزيد الألياف",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بطاطس مهروسة",
+          "ratio": "حوالي ¼–½ كوب لكل دفعة بحسب الرطوبة",
+          "best_for": "كرات وحشوات",
+          "impact": "ربط ورطوبة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "دقيق حمص",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "برجر نباتي وحشوات",
+          "impact": "ربط قوي ونكهة بقولية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "salt",
+      "name_ar": "الملح",
+      "cat": "spice",
+      "tags": "ملح,تمليح,طبخ",
+      "substitutes": [
+        {
+          "sub_name": "ملح كوشير/بحر ناعم",
+          "ratio": "بالوزن 1 : 1، بالحجم يحتاج ضبطًا",
+          "best_for": "كل الطبخ",
+          "impact": "حجم البلورات يغير الملوحة بالحجم",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "صلصة صويا قليلة الصوديوم",
+          "ratio": "ليس 1:1؛ أضف تدريجيًا",
+          "best_for": "صوصات وأطباق آسيوية",
+          "impact": "يضيف ماءً وأومامي",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "black-pepper",
+      "name_ar": "الفلفل الأسود",
+      "cat": "spice",
+      "tags": "فلفل,توابل,ملح",
+      "substitutes": [
+        {
+          "sub_name": "فلفل أبيض",
+          "ratio": "1 : 1",
+          "best_for": "شوربات وصوصات وأطباق فاتحة اللون",
+          "impact": "قريب مع نكهة مختلفة قليلًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "شطة مطحونة",
+          "ratio": "½ : 1 أو حسب الحرارة",
+          "best_for": "أطباق حارة",
+          "impact": "أكثر حرارة بوضوح",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "chili-flakes",
+      "name_ar": "رقائق الفلفل الحار",
+      "cat": "spice",
+      "tags": "شطة,فلفل حار,توابل",
+      "substitutes": [
+        {
+          "sub_name": "فلفل أحمر مطحون",
+          "ratio": "1 : 1 تقريبًا",
+          "best_for": "بيتزا وصلصات",
+          "impact": "حرارة أقوى وأكثر تجانسًا",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بابريكا حارة",
+          "ratio": "1 : 1",
+          "best_for": "صلصات وتتبيلات",
+          "impact": "حرارة ولون قريبان",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "italian-herbs",
+      "name_ar": "أعشاب إيطالية مجففة",
+      "cat": "spice",
+      "tags": "أعشاب,ريحان,أوريجانو",
+      "substitutes": [
+        {
+          "sub_name": "أوريجانو + ريحان مجفف",
+          "ratio": "1 : 1 إجمالًا بنسب متقاربة",
+          "best_for": "بيتزا وصوصات",
+          "impact": "نكهة أكثر وضوحًا للأعشاب الأساسية",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "زعتر مجفف + أوريجانو",
+          "ratio": "1 : 1 إجمالًا",
+          "best_for": "أطباق متوسطية",
+          "impact": "نكهة أدفأ وأقوى",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "fresh-herbs",
+      "name_ar": "الأعشاب الطازجة",
+      "cat": "spice",
+      "tags": "أعشاب,ريحان,بقدونس",
+      "substitutes": [
+        {
+          "sub_name": "أعشاب مجففة",
+          "ratio": "حوالي ⅓ الكمية من الطازج",
+          "best_for": "شوربات وصلصات ومخبوزات",
+          "impact": "أكثر تركيزًا وأقل نضارة",
+          "score": "excellent",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "أعشاب مجمدة مفرومة",
+          "ratio": "1 : 1 حسب المنتج",
+          "best_for": "صلصات وطبخ",
+          "impact": "أقرب من المجفف في النضارة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "basil",
+      "name_ar": "الريحان",
+      "cat": "spice",
+      "tags": "ريحان,بيستو,مكرونة",
+      "substitutes": [
+        {
+          "sub_name": "أوريجانو طازج/مجفف",
+          "ratio": "أقل من 1 : 1 حسب القوة",
+          "best_for": "صلصات بيتزا ومكرونة",
+          "impact": "أكثر حدة وأقل حلاوة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بقدونس + نعناع",
+          "ratio": "بنسب صغيرة",
+          "best_for": "سلطات وصلصات",
+          "impact": "عطر مختلف لكنه منعش",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "parsley",
+      "name_ar": "البقدونس",
+      "cat": "spice",
+      "tags": "بقدونس,أعشاب,سلطة",
+      "substitutes": [
+        {
+          "sub_name": "كزبرة خضراء",
+          "ratio": "1 : 1",
+          "best_for": "سلطات وتتبيلات وأطباق ساخنة",
+          "impact": "نكهة أكثر حدة وحمضية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "كرفس أخضر مفروم",
+          "ratio": "1 : 1 في بعض السلطات",
+          "best_for": "حشوات وشوربات",
+          "impact": "نكهة مختلفة وقوام مقارب",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mint",
+      "name_ar": "النعناع",
+      "cat": "spice",
+      "tags": "نعناع,سلطة,شاي",
+      "substitutes": [
+        {
+          "sub_name": "ريحان",
+          "ratio": "1 : 1 في بعض السلطات والصوصات",
+          "best_for": "صلصات وسلطات",
+          "impact": "أقل برودة وأكثر حلاوة",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        },
+        {
+          "sub_name": "بقدونس + رشة كزبرة",
+          "ratio": "حسب الطبق",
+          "best_for": "سلطات وتتبيلات",
+          "impact": "لا يعطي نفس النكهة المنثولية",
+          "score": "good",
+          "source": "GENERAL",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
